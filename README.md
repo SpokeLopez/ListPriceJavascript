@@ -1,2 +1,2 @@
 # ListPriceJavascript
-Aplicacion para generar una lista d eproductos con su precio, solo con Javascript.
+Aplicacion para generar una lista de productos con su precio, solo con Javascript.
